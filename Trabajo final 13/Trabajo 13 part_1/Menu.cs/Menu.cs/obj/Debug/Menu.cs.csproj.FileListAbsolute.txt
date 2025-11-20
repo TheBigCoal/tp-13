@@ -1,0 +1,11 @@
+C:\Users\Eze\OneDrive\Escritorio\Menu.cs\Menu.cs\bin\Debug\Menu.cs.exe.config
+C:\Users\Eze\OneDrive\Escritorio\Menu.cs\Menu.cs\bin\Debug\Menu.cs.exe
+C:\Users\Eze\OneDrive\Escritorio\Menu.cs\Menu.cs\bin\Debug\Menu.cs.pdb
+C:\Users\Eze\OneDrive\Escritorio\Menu.cs\Menu.cs\obj\Debug\Menu.cs.csprojResolveAssemblyReference.cache
+C:\Users\Eze\OneDrive\Escritorio\Menu.cs\Menu.cs\obj\Debug\Menu.cs.Menu.resources
+C:\Users\Eze\OneDrive\Escritorio\Menu.cs\Menu.cs\obj\Debug\Menu.cs.Properties.Resources.resources
+C:\Users\Eze\OneDrive\Escritorio\Menu.cs\Menu.cs\obj\Debug\Menu.cs.Registro.resources
+C:\Users\Eze\OneDrive\Escritorio\Menu.cs\Menu.cs\obj\Debug\Menu.cs.csproj.GenerateResource.Cache
+C:\Users\Eze\OneDrive\Escritorio\Menu.cs\Menu.cs\obj\Debug\Menu.cs.exe
+C:\Users\Eze\OneDrive\Escritorio\Menu.cs\Menu.cs\obj\Debug\Menu.cs.pdb
+C:\Users\Eze\OneDrive\Escritorio\Menu.cs\Menu.cs\obj\Debug\Menu.cs.Login.resources
